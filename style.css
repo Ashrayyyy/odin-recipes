@@ -1,0 +1,25 @@
+*{
+    background-color: yellow;
+}
+
+#title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#recipes{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    font-style:italic;
+}
+
+#recipes .list{
+    list-style-type: none;
+}
+
